@@ -1,32 +1,30 @@
 h1 {
+   
     color: white;
 }
 body {background-color : #808080;}
+.all{
+  margin: 2%;
+  width:200px;
+  height: 200px;
+}
 .square1 {
-    margin: 2%;
-    width:200px;
-    height: 200px;
+    
     background-color: #fea500;
   }
   
 .square2 {
-    margin: 2%;
-    width:200px;
-    height: 200px;
+   
     background-color: #fea500;
   }
   
 .square3 {
-    margin: 2%;
-    width:200px;
-    height: 200px;
+   
     background-color: #fea500;
   }
   
 .square4 {
-    margin: 2%;
-    width:200px;
-    height: 200px;
+  
     background-color: #fea500;
   }
   
